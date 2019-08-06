@@ -1,2 +1,2 @@
-# Miscelleneous-Codes
+# Viterbi Algorithm
 Faster Viterbi Algorithm
